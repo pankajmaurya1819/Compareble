@@ -9,6 +9,7 @@ public class SortEaxmple {
 public static void main(String[] args) {
 
 	// this is eaxmple of compreble and comparetor
+	// passing the object in in array list
 	ArrayList<Student> list=new ArrayList<Student>();
 	list.add(new Student(7,"deepak",15));
 	list.add(new Student(5,"amit",20));
